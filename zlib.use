@@ -1,0 +1,7 @@
+Name: compress
+Version: 0.01
+Description: compress suit
+SourcePath: source
+Imports: zlib
+Additionals: ./source/miniz.c
+
